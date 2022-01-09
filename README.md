@@ -8,7 +8,7 @@ App to improve Python skills and practice problem solving.
 
 ## Problem Statement
 
-The problem to solve is TODO (@mjboothaus).
+The problem to solve is TODO (@emmegb).
 
 ## Possible Solution
 
