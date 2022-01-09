@@ -4,7 +4,7 @@ Home wine cataloguing solution
 
 ## Background
 
-App to demo DataBooth capability to our CPW. 
+App to improve Python skills and practice problem solving. 
 
 ## Problem Statement
 
@@ -13,18 +13,13 @@ The problem to solve is TODO (@mjboothaus).
 ## Possible Solution
 
 Ideally client would love either:
-1. An app where they can TODO (@mjboothaus); or 
-2. Slightly less ambitious, but nevertheless really useful outcome, would be an app TODO (@mjboothaus). 
+1. An app where they can TODO (@emmegb); or 
+2. Slightly less ambitious, but nevertheless really useful outcome, would be an app TODO (@emmegb). 
 
-## Relevant Sample Code
+## Prototype
 
-N/A.
-
-## Relevant APIs
-
-TODO (@mjboothaus)
-
+Created a Google Form through Google Sheets to adjust for catalogue. 
 
 ## Sample Data
 
-N/A.
+References from commercial websites and winecellar site. 
